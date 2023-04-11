@@ -1,0 +1,93 @@
+[
+    {
+        "_id": 1,
+        "name": "iPhone 13 Pro Max",
+        "price": 1299.00,
+        "lDes": "The iPhone 13 Pro Max features the most advanced camera system ever in an iPhone, a new ProMotion display with a 120Hz refresh rate, and the powerful A15 Bionic chip.",
+        "sDes": "The most advanced iPhone ever.",
+        "image": "https://dummyimage.com/600x400/000/fff&text=iPhone+13+Pro+Max",
+        "rating": 4.5
+    },
+    {
+        "_id": 2,
+        "name": "Samsung Galaxy S21 Ultra",
+        "price": 1199.00,
+        "lDes": "The Samsung Galaxy S21 Ultra features a stunning 6.8-inch Dynamic AMOLED 2X display, a powerful Exynos 2100 processor, and a versatile quad camera system with up to 100x Space Zoom.",
+        "sDes": "The ultimate Samsung flagship.",
+        "image": "https://dummyimage.com/600x400/000/fff&text=Galaxy+S21+Ultra",
+        "rating": 4.8
+    },
+    {
+        "_id": 3,
+        "name": "MacBook Pro M1 Max",
+        "price": 2599.00,
+        "lDes": "The new MacBook Pro with the M1 Max chip delivers the most powerful graphics and CPU performance ever in a MacBook. With a stunning Liqu_id Retina XDR display, up to 64GB of RAM, and up to 8TB of storage, it's the ultimate professional laptop.",
+        "sDes": "The ultimate MacBook for pros.",
+        "image": "https://dummyimage.com/600x400/000/fff&text=MacBook+Pro+M1+Max",
+        "rating": 4.9
+    },
+    {
+        "_id": 4,
+        "name": "Sony PlayStation 5",
+        "price": 499.00,
+        "lDes": "Experience lightning-fast loading with an ultra-high-speed SSD, deeper immersion with support for haptic feedback, adaptive triggers, and 3D Audio, and an all-new generation of incredible PlayStation games.",
+        "sDes": "The ultimate gaming console.",
+        "image": "https://dummyimage.com/600x400/000/fff&text=PlayStation+5",
+        "rating": 4.7
+    },
+    {
+        "_id": 5,
+        "name": "Bose QuietComfort Earbuds",
+        "price": 279.00,
+        "lDes": "Enjoy clear, noise cancelling headphones, aviation-grade aluminum and a water and sweat resistant design. Experience the freedom of wireless headphones with earbuds that are designed to stay securely in place.",
+        "sDes": "Wireless noise cancelling earbuds.",
+        "image": "https://dummyimage.com/600x400/000/fff&text=QuietComfort+Earbuds",
+        "rating": 4.4
+    },
+    {
+        "_id": 6,
+        "name": "Dyson V11 Absolute",
+        "price": 699.00,
+        "lDes": "The Dyson V11 Absolute is a powerful cordless vacuum cleaner with up to 60 minutes of run time, advanced whole-machine filtration, and a High Torque cleaner head that adapts to different floor types.",
+        "sDes": "Powerful cordless vacuum cleaner.",
+        "image": "https://dummyimage.com/600x400/000/fff&text=Dyson+V11+Absolute",
+        "rating": 4.6
+    },
+    {
+        "_id": 7,
+        "name": "Canon EOS R5",
+        "price": 3899.00,
+        "lDes": "The Canon EOS R5 is a full-frame mirrorless camera with a 45MP sensor, 8K v_ideo recording, and advanced autofocus capabilities. It's a powerful tool for professional photographers and v_ideographers.",
+        "sDes": "Professional full-frame mirrorless camera.",
+        "image": "https://dummyimage.com/600x400/000/fff&text=Canon+EOS+R5",
+        "rating": 4.9
+    },
+    {
+        "_id": 8,
+        "name": "Apple Watch Series 7",
+        "price": 399.00,
+        "lDes": "The Apple Watch Series 7 features a larger, always-on Retina display, a faster charging time, and new cycling, workout, and mindfulness features. It's the ultimate smartwatch for active and health-conscious users.",
+        "sDes": "The ultimate smartwatch.",
+        "image": "https://dummyimage.com/600x400/000/fff&text=Apple+Watch+Series+7",
+        "rating": 4.8
+    },
+    {
+        "_id": 9,
+        "name": "Nest Learning Thermostat",
+        "price": 249.00,
+        "lDes": "The Nest Learning Thermostat learns your preferred temperature settings and automatically adjusts to save energy when you're away. It's easy to use, easy to install, and compatible with most HVAC systems.",
+        "sDes": "Smart thermostat that learns your preferences.",
+        "image": "https://dummyimage.com/600x400/000/fff&text=Nest+Learning+Thermostat",
+        "rating": 4.7
+    },
+    {
+        "_id": 10,
+        "name": "Kindle Paperwhite",
+        "price": 129.99,
+        "lDes": "The Kindle Paperwhite is a waterproof e-reader with a 6-inch glare-free display, built-in adjustable light, and weeks-long battery life. It's the perfect device for reading books, magazines, and newspapers.",
+        "sDes": "Waterproof e-reader with a glare-free display.",
+        "image": "https://dummyimage.com/600x400/000/fff&text=Kindle+Paperwhite",
+        "rating": 4.6
+    }
+
+]
